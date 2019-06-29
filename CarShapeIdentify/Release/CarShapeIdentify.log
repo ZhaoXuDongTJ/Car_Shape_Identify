@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  CarShapeIdentify.cpp
+  CarShapeIdentifyDoc.cpp
+  CarShapeIdentifyView.cpp
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentify.cpp(63,3): error C2653:  “CMainFrame”: 不是类或命名空间名称
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentifyView.cpp(56,2): error C2065:  “myimg”: 未声明的标识符
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentifyView.cpp(56,10): error C2065:  “img”: 未声明的标识符
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentifyView.cpp(60,18): error C2065:  “img”: 未声明的标识符
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentifyView.cpp(61,19): error C2065:  “img”: 未声明的标识符
+  MainFrm.cpp
+  HeImg.cpp
+D:\Zdy\闲鱼\_车型识别系统\源码\CarShapeIdentify\CarShapeIdentifyView.cpp(62,5): error C2065:  “img”: 未声明的标识符
